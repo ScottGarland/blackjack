@@ -263,7 +263,7 @@ while game:
             if event.key == pygame.K_t:
                 title_screen()
             
-        print(event)
+        #print(event)
 
     pygame.display.update()
 pygame.quit()
